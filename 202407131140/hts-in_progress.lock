@@ -1,0 +1,7 @@
+Mirror in progress since Sat, 13 Jul 2024 11:40:44 .. please wait!
+httrack https://www.whatsapp.com/ -O /tmp/www.whatsapp.com/202407131140 https://www.whatsapp.com/ -v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=11405
+UID=1000
+GID=1000
+START=1720870844
